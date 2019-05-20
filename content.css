@@ -1,0 +1,27 @@
+body {
+    background: #483d8b;
+}
+h1 {color: #f0ffff}
+h3 {color: #ffd700}
+p {color: #ffd700}
+a {color: #ffd700}
+.menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.menu li {
+    display: inline;
+  }
+.menu a {
+    text-decoration: none;
+    font-family: sans-serif;
+    color: #5757a0;
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: lavender;
+    border-bottom: 5px solid #5757a0;
+  }
+  .menu{
+    overflow: hidden;
+  }
